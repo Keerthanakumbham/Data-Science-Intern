@@ -1,7 +1,7 @@
 Project: Customer Analysis
-Overview
+Overview:
 This project involves customer analysis through three tasks: Exploratory Data Analysis (EDA), Lookalike Model creation, and Customer Clustering.
-Tasks
+Tasks:
 EDA: Analyze datasets to derive insights.
 File: Keerthana_Kumbham_EDA.ipynb
 Report: Keerthana_Kumbham_EDA.pdf
@@ -11,7 +11,7 @@ Output: Keerthana_Kumbham_Lookalike.csv
 Customer Clustering: Group customers into clusters and evaluate results.
 File: Keerthana_Kumbham_Clustering.ipynb
 Report: Keerthana_Kumbham_Clustering.pdf
-Outputs
+Outputs:
 EDA insights: Business insights from data analysis.
 Lookalike.csv: Top 3 similar customers for each user.
 Clustering report: Cluster visualizations and metrics.
